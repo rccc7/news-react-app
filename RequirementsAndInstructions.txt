@@ -131,3 +131,19 @@ making a query with either Postman or browser. So we won't exceed the limit of 5
             (STEPZEN_API_KEY and MEDIASTACK_API_KEY)
             - After setting up the environment variables generate the build locally by
                 npm run build
+12. Finally, It'll be necessary to upload to github and associate with vercel account. Follow these steps:
+    12.1 Upload to github:
+        -Create the repository 
+            git init
+            git add -A
+            git commit -m 'first commit'
+            git branch -M main
+            git remote add origin https://github.com/rccc7/news-react-app.git
+            git push -u origin main
+    12.2. Associate the repository with Vercel:
+        - In vercel go to the project
+        - In the first screen click the button "Connect to Git Repository"
+        - Select github
+        - Select the react-news-app
+        - save
+        The project will be redeployed again based in the new github respository contents.
