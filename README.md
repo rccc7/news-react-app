@@ -13,7 +13,7 @@ News portal made in react. Retrieve live news and blog articles including images
 - [Mediastack](https://mediastack.com) REST API.
 - TypeScript
 
-## Setup & Deployment Instructions:
+## Step by Stepe Setup & Deployment Instructions:
 
 1.  Create the app with the Nextjs + Tailwind CSS template based on the documentation at: https://v2.tailwindcss.com/docs/guides/nextjs
     npx create-next-app -e with-tailwindcss my-project
