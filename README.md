@@ -5,8 +5,9 @@ News portal made in react. Retrieve live news and blog articles including images
 
 ## Technologies & Dependencies:
 
-- NextJS
+- NextJS 13
 - TailwindCSS
+- HeroIcons
 - GraphQL
 - [StepZen](https://www.stepzen.com)
 - [Mediastack](https://mediastack.com) REST API.
