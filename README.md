@@ -121,7 +121,7 @@ News portal made in react. Retrieve live news and blog articles including images
     install the encoding package, which is only useful to prevent that annoying message:
     npm install encoding
 
-8.  Optional: Create the file response.json in which we'll store mock data obtained by copying the results from making a query with either Postman or browser. So we won't exceed the limit of 500 free requests per month from mediastack
+8.  Optional: Create the file response.json in which we'll store mock data obtained by copying the results from making a query with either Postman or browser. So we won't exceed the limit of 500 free requests per month from mediastack.
 
 9.  Install the next-themes theme provider to apply the dark mode / light mode switch functionality
     https://www.npmjs.com/package/next-themes
