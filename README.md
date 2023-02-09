@@ -5,6 +5,12 @@ News portal made in react. Retrieve live news and blog articles including images
 
 See it in action: https://news-react-app-rccc7.vercel.app/
 
+## Screenshots:
+
+<div align="center">
+  <img src="screenshots/RcccNews-react.jpg" alt="screenshot" width="700" style="width:700px;"/>
+</div>
+
 ## Technologies & Dependencies:
 
 - NextJS 13
@@ -15,7 +21,7 @@ See it in action: https://news-react-app-rccc7.vercel.app/
 - [Mediastack](https://mediastack.com) REST API.
 - TypeScript
 
-## Step by Step Setup & Deployment Instructions:
+<!---## Step by Step Setup & Deployment Instructions:
 
 1.  Create the app with the Nextjs + Tailwind CSS template based on the documentation at: https://v2.tailwindcss.com/docs/guides/nextjs
     npx create-next-app -e with-tailwindcss my-project
@@ -154,3 +160,4 @@ See it in action: https://news-react-app-rccc7.vercel.app/
     git push -u origin main
     12.2. Associate the repository with Vercel: - In vercel go to the project - In the first screen click the button "Connect to Git Repository" - Select github - Select the react-news-app - save
     The project will be redeployed again based in the new github respository contents.
+-->
