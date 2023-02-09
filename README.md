@@ -1,6 +1,7 @@
 # Next.js + Tailwind CSS REACT NEWS APP
 
 This is a demonstration of the new next.js 13 features such as server side components, dynamic pages, API fetching with GraphQL.
+
 News portal made in react. Retrieve live news and blog articles including images using mediastack.com REST API through StepZen.com free version with which a GraphQL API is created to easily access MediaStack data. Users can access the news from different categories as well as by searching a topic through the search bar. There is the option to see more details by clicking on the 'Read More' button. There is the option to apply Dark and light Mode through next-themes package. The application applies the system default theme by default.
 
 See it in action: https://news-react-app-rccc7.vercel.app/
